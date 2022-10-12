@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Project_3____VISA_BALI/static/css/main.2ab64492.css",
+    "main.js": "/Project_3____VISA_BALI/static/js/main.59eac7b7.js",
+    "static/media/bi.webp": "/Project_3____VISA_BALI/static/media/bi.8cc7510f2856cfe56fd6.webp",
+    "static/media/logo.png": "/Project_3____VISA_BALI/static/media/logo.12e92e63829a4301b82d.png",
+    "index.html": "/Project_3____VISA_BALI/index.html",
+    "main.2ab64492.css.map": "/Project_3____VISA_BALI/static/css/main.2ab64492.css.map",
+    "main.59eac7b7.js.map": "/Project_3____VISA_BALI/static/js/main.59eac7b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ab64492.css",
+    "static/js/main.59eac7b7.js"
+  ]
+}
